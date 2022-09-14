@@ -1,3 +1,3 @@
 # Exxloite
 
-https://anshul-g17.github.io/sluralpright/
+https://anshul-g17.github.io/Exxolite/
